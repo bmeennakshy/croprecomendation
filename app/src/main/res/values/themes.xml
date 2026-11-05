@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Crop_recommendation" parent="Theme.MaterialComponents.Light" />
+</resources>
